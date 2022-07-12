@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Preapre the data directory.
-mkdir -p inteproscan
+mkdir -p interproscan
 rm -rf interproscan/*
 cd interproscan
 
